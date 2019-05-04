@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/anki-deck-generator2
+anki-deck-generator2.so
+anki-deck-generator2.dylib
+anki-deck-generator2.dll
+anki-deck-generator2.a
+anki-deck-generator2.lib
+anki-deck-generator2-test-*
+*.exe
+*.o
+*.obj
+*.lst

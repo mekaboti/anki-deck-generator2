@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"mekaboti"
+	],
+	"copyright": "Copyright © 2019, mekaboti",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "anki-deck-generator2"
+}
